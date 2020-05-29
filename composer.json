@@ -5,8 +5,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Julian Mesa",
-      "email": "djnetswa@gmail.com"
+      "name": "Jérémy Gaulin",
+      "email": "jeremy@bnb.re"
     }
   ],
   "autoload": {
@@ -24,6 +24,5 @@
   "require-dev": {
     "phpunit/phpunit": "~4.6",
     "mockery/mockery": "0.9.*"
-  },
-  "minimum-stability": "stable"
+  }
 }
