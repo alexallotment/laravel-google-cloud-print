@@ -1,5 +1,5 @@
 {
-  "name": "djnet00/laravel-google-cloud-print",
+  "name": "gnurlan/laravel-google-cloud-print",
   "description": "Google Cloud Print Service Provider for Laravel 6",
   "type": "Library",
   "license": "MIT",
