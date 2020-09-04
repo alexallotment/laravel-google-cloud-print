@@ -1,8 +1,9 @@
 {
-  "name": "gnurlan/laravel-google-cloud-print",
-  "description": "Google Cloud Print Service Provider for Laravel 6",
+  "name": "alexallotment/laravel-google-cloud-print",
+  "description": "Google Cloud Print Service Provider for Laravel 7",
   "type": "Library",
   "license": "MIT",
+  
   "authors": [
     {
       "name": "Jérémy Gaulin",
